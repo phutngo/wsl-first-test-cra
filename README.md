@@ -18,3 +18,13 @@ git remote add origin https://github.com/phutngo/wsl-first-test-cra.git
 git branch -M main
 git push -u origin main
 "
+------------------------------------------------------------------
+https://code.visualstudio.com/docs/remote/wsl#_getting-started
+
+------------------------------------------------------------------
+
+http://manpages.ubuntu.com/manpages/bionic/man8/apt.8.html
+sudo apt full-upgrade to update packages on ubuntu
+
+TODO later if using both wsl and windows for 1 repo
+https://code.visualstudio.com/docs/remote/troubleshooting#_resolving-git-line-ending-issues-in-wsl-resulting-in-many-modified-files
